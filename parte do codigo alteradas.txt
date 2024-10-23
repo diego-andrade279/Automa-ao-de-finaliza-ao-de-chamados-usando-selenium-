@@ -1,0 +1,28 @@
+# código de atribuir ao responsável 
+##################################################################################
+        # Atribuir ao responsavel
+        #botao_responsavel = driver.find_element(By.CSS_SELECTOR,'[data-testid="issue-field-inline-edit-read-view-container.ui.container"]')
+        #bt_classificacao = driver.find_element(By.CSS_SELECTOR,'[data-component-selector="jira-issue-field-cascading-select-read-view-container"]')
+        #bt_classificacao.click()
+        
+        #sleep(300000)
+        #botao_responsavel = driver.find_element(
+        #    By.CSS_SELECTOR, ".fabric-user-picker__input"
+        #)
+        #Opçao removida apos alteraçao no processo 
+        #nome = "Não atribuido"
+        #for i in nome:
+        #    botao_responsavel.send_keys(str(i))
+        #    sleep(0.1)
+
+        #sleep(2)
+        #botao_responsavel.send_keys(Keys.ENTER)
+        #sleep(5)
+        # Campo OK em caso de erro de nome
+        #try:
+        #    bt_ok = driver.find_element(By.CSS_SELECTOR, "button.css-8wdfur")
+        #    bt_ok.click()
+        #    sleep(3.5)
+        #except NoSuchElementException:
+        #    pass
+        ################################################################################
